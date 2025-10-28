@@ -7,6 +7,7 @@ import nltk
 
 nltk.download('words')
 
+
 class PasswordGenerator(ABC):
     """
     Base class for generating passwords.
